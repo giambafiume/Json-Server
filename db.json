@@ -20,7 +20,7 @@
             {
                 "event": 0,
                 "color": "red",
-                "assignScore" : 1,
+                "assignEvent" : 1,
                 "player": "Gianni",
                 "time": "15"
             },   
