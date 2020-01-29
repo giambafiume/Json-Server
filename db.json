@@ -6,6 +6,13 @@
             {
                 "event": 1,
                 "color": "",
+                "assignScore" : 0,
+                "player": "Giambattista Fiume",
+                "time": "1"
+            },
+            {
+                "event": 1,
+                "color": "",
                 "assignEvent" : 1,
                 "player": "GianniFIUME",
                 "time": "13"
