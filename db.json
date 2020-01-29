@@ -4,27 +4,32 @@
         "score": "- : -",
         "realTime": [
             {
-                "assignScore" : 1,
+                "event": 1,
+                "assignEvent" : 1,
                 "player": "GianniFIUME",
                 "time": "13"
             },
             {
+                "event": 0,
                 "assignScore" : 1,
                 "player": "Gianni",
                 "time": "15"
             },   
             {
+                "event": 1,
                 "assignScore" : 1,
                 "player": "Gianni",
                 "time": "23"
             },
             {
+                "event": 1,
                 "assignScore" : 0,
                 "player": "Giambattista",
                 "time": "25"
                 
             },
             {
+                "event": 1,
                 "assignScore" : 0,
                 "player": "Giambattista Fiume",
                 "time": "60"
