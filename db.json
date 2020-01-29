@@ -4,25 +4,29 @@
         "score": "- : -",
         "realTime": [
             {
-                "event": 1,
+                "event": 1,,
+                "color": "",
                 "assignEvent" : 1,
                 "player": "GianniFIUME",
                 "time": "13"
             },
             {
                 "event": 0,
+                "color": "red",
                 "assignScore" : 1,
                 "player": "Gianni",
                 "time": "15"
             },   
             {
-                "event": 1,
+                "event": 1,,
+                "color": "",
                 "assignScore" : 1,
                 "player": "Gianni",
                 "time": "23"
             },
             {
-                "event": 1,
+                "event": 0,
+                "color": "yellow",
                 "assignScore" : 0,
                 "player": "Giambattista",
                 "time": "25"
@@ -30,6 +34,7 @@
             },
             {
                 "event": 1,
+                "color": "",
                 "assignScore" : 0,
                 "player": "Giambattista Fiume",
                 "time": "60"
