@@ -5,24 +5,29 @@
         "realTime": [
             {
                 "assignScore" : 1,
-                "player": "(22\") \nGianniFIUME"
+                "player": "GianniFIUME",
+                "time": "13"
             },
             {
                 "assignScore" : 1,
-                "player": "Gianni"
+                "player": "Gianni",
+                "time": "15"
             },   
             {
                 "assignScore" : 1,
-                "player": "Gianni"
+                "player": "Gianni",
+                "time": "23"
             },
             {
                 "assignScore" : 0,
-                "player": "Giambattista"
+                "player": "Giambattista",
+                "time": "25"
+                
             },
             {
                 "assignScore" : 0,
                 "player": "Giambattista Fiume",
-                "time": "23"
+                "time": "60"
             }
         ]
     }]}
