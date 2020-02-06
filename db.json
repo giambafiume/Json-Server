@@ -2,7 +2,9 @@
   "results": [
     {
       "teamAName": "Juventus",
+      "teamAImg": "https://i.pinimg.com/474x/97/80/b2/9780b2360be4c47f7c75c6df159b3704--juventus-logo-turin.jpg"
       "teamBName": "Bari",
+      "teamBImg": "https://upload.wikimedia.org/wikipedia/it/f/f2/Asbaristemma.png"
       "score": "- : -",
       "realTime": [
         {
@@ -43,9 +45,11 @@
       ]
     },
     {
-      "teamA": "Noci",
-      "teamB": "Putignano",
-      "score": "5 - 0"
+      "teamA": "Milan",
+      "teamAImg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg"
+      "teamB": "Inter",
+      "teamBImg": "http://www.soccerstyle24.it/wp-content/uploads/2014/07/Inter-nuovo-logo.jpg"
+      "score": "1 - 1"
     }
   ]
 }
